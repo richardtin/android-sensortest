@@ -1,3 +1,5 @@
+.DS_Store
+
 # Built application files
 *.apk
 *.ap_
@@ -11,6 +13,7 @@
 # Generated files
 bin/
 gen/
+out/
 
 # Gradle files
 .gradle/
@@ -30,3 +33,8 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+# Intellij
+*.iml
+/.idea/workspace.xml
+/.idea/libraries

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="empty_sensor_list">No sensor detected!</string>
+
+    <string name="title_activity_sensor_monitor">SensorMonitorActivity</string>
+    <string name="title_activity_sensor_list_wear">SensorListWearActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
